@@ -4,8 +4,6 @@ import teatro from './sample/teatro.json';
 import styled, {css} from 'styled-components';
 import Texto from './components/Texto';
 
-
-
 const Button = styled.button`;  
   background: transparent;
   border-radius: 3px;
