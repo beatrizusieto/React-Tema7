@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "frase": "Hola Romeo.",
+    "color": "pink"
+  },
+  {
+    "id": 1,
+    "frase": "Hola Julieta",
+    "color": "papayawhip"
+  }, 
+  {
+    "id": 2,
+    "frase": "T'estimo, Romeo",
+    "color": "papayawhip"
+  },
+  {
+   "id": 3,
+   "frase": "I jo a tu Julieta",
+   "color": "papayawhip"
+  },
+  {
+    "id": 4, 
+    "frase": "Escapem-nos a Mèxic",
+    "color": "papayawhip"
+  }, 
+  {
+    "id": 5,    
+    "frase": "Millor no, no li caus bé a la meva família i si seguim endavant amb el nostre amor, aquesta història acabarà malament",
+    "color": "papayawhip"
+  }, 
+  {
+    "id": 6,   
+    "frase": "Doncs vaja",
+    "color": "papayawhip"
+  }    
+]
